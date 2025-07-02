@@ -14,7 +14,7 @@ def main():
     is_correct = check_guess(secret, guess)
     print_result(is_correct)
     
-    main()
+main()
         
  
     
